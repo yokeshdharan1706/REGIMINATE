@@ -1,4 +1,4 @@
-# Regimenate
+# Regiminate
 Exploring Daily Routine Efficiency through Data Analysis
 ## Inspiration
 We were motivated to explore the **everyday routines** of ordinary individuals with the aim of **enhancing** their **quality** of life.
